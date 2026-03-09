@@ -2,6 +2,11 @@
 
 ## PS-71: 30-Minute Investor Deployment Challenge
 
+[![Documentation](https://img.shields.io/badge/Project-Documentation-blue?style=for-the-badge&logo=google-docs)](YOUR_DOC_LINK)
+
+[![Deployment](https://img.shields.io/badge/AWS-EC2%20Deployment-orange?style=for-the-badge&logo=amazon-aws)](#)
+
+
 ### Student Information
 
 **Name:** Ragini Singh
