@@ -7,8 +7,12 @@
 ### Student Information
 
 **Name:** Ragini Singh
+
 **Subject:** Cloud Computing
-**Project Type:** Practical Case Study
+
+**Project Type:** Practical Case Study 
+
+
 
 ---
 
